@@ -1,4 +1,6 @@
-# Plot.ly_Challenge
+## Plot.ly_Challenge
+
+# Belly Button Biodiversity
 
 Welcome to my interactive dashboard. In this dashboard you can explore the [Belly Button Diversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that cononize human navels. 
 
