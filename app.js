@@ -1,9 +1,9 @@
 // Charts Function
 function buildCharts(sample) {
 
-   
+    // Day 2 Activity 6
     //Read samples.json
-    d3.json("samples.json").then (incomingData =>{
+    d3.json("data/samples.json").then (incomingData =>{
         console.log(incomingData)
 
         //Filtering through the samples by ID
@@ -78,7 +78,7 @@ function buildCharts(sample) {
 function demoTable(sample) {
 
     //Read samples.json
-    d3.json("samples.json").then((incomingData)=> {
+    d3.json("data/samples.json").then((incomingData)=> {
 
         var sampleMeta = incomingData.metadata;
         console.log(sampleMeta)
@@ -104,7 +104,7 @@ function init () {
 var dropdown = d3.select("#selDataset");
 
 //Read samples.json
-d3.json("samples.json").then (incomingData =>{
+d3.json("data/samples.json").then (incomingData =>{
     console.log(incomingData);
 
     //Get the Value/Names from the data and append into the Drop Down variable
