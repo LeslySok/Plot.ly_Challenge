@@ -10,6 +10,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Navigating the Website
 
+[Interactive Dashboard](https://leslysok.github.io/Plot.ly_Challenge/)
 
 
 
